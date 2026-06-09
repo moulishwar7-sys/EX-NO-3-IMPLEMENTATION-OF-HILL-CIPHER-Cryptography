@@ -1,4 +1,6 @@
 # EX-NO-3-IMPLEMENTATION-OF-HILL-CIPHER
+### NAME : MOULISHWAR G
+### REGISTER NUMBER : 2305001020
  
 ## AIM
 To write a C program to implement the hill cipher substitution techniques.
@@ -96,6 +98,10 @@ int main() {
 
 ```
 ## OUTPUT
+
+<img width="561" height="353" alt="Screenshot 2026-06-09 190312" src="https://github.com/user-attachments/assets/f9ae38b4-e66c-4d6b-9446-0a2ab8cd2596" />
+
+
 
 ## RESULT
 hence the experiment has been executed successfully
